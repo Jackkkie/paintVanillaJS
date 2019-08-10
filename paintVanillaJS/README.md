@@ -1,3 +1,3 @@
 # paintVanillaJS
 
-https://jackkkie.github.io/JSPractice/
+https://jackkkie.github.io/JSPractice/paintVanillaJS/
